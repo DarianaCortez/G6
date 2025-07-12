@@ -10,4 +10,4 @@ contactos:
 - anyelina140306@gmail.com
 - mariafelixyataco@gmail.com
 - brithney.coraima@gmail.com
--heydi.larico.mamani@gmail.com
+- -heydi.larico.mamani@gmail.com
