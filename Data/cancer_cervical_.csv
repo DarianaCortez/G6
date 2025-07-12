@@ -1,0 +1,219 @@
+n_de_paciente,Edad,Estado_marital,Nivel_de_educación,Religión,Etnia,Procedencia,Ocupación,Ocupación_convi,Antecedentes_fam,Edad_relacion_sexual,Parejas_sex,num_hijos,tipo_de_anticoceptivo,Antecedentes_ets,Grado_de_conocimiento,Actitud,Practica,Conocimiento,Usa_anticoceptivo
+1,53,Casada,Superior,Catolico,Mestizo,Urbano,Otro,Empleado,No,23,2,3,No uso,No,Alto,Negativa,Incorrecta,Si tiene,No
+2,54,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,,,3,No uso,No,Medio,Positiva,Incorrecta,Si tiene,No
+3,26,Soltera,Superior,Catolico,Blanco,Urbano,Estudiante,Estudiante,No,18,4,2,No uso,,Medio,Positiva,Incorrecta,Si tiene,No
+4,25,Soltera,Superior,Ninguna,Mestizo,Rural,Sin empleo,Sin empleo,,18,10,0,No uso,Si,Medio,Positiva,Correcta,Si tiene,No
+5,25,Soltera,Superior,Ninguna,Mestizo,Rural,Estudiante,Estudiante,No,,6,0,No uso,No,Medio,Positiva,Correcta,Si tiene,No
+6,38,Soltera,Superior,Catolico,Mestizo,Rural,Ama de casa,Otro,No,20,2,2,No uso,No,Alto,Negativa,Correcta,Si tiene,No
+7,29,Soltera,Secundaria,Catolico,Otro,Urbano,Estudiante,Otro,No,16,3,2,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+8,39,Conviviente,Superior,Catolico,Mestizo,Urbano,Otro,Otro,Si,17,,4,DIU,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+9,50,Soltera,Superior,Catolico,Mestizo,Urbano,Empleada,Otro,Si,19,3,2,No uso,No,Alto,Positiva,Correcta,Si tiene,No
+10,25,Conviviente,Superior,Catolico,Mestizo,Urbano,Estudiante,Otro,No,17,2,2,Ampolla de 3 meses,No,Medio,Positiva,Incorrecta,Si tiene,Si
+11,26,Conviviente,Secundaria,Catolico,Blanco,Rural,Ama de casa,Empleado,No,17,5,1,No uso,,No conoce,Negativa,Incorrecta,No tiene,No
+12,28,Soltera,Superior,Catolico,Mestizo,Urbano,Estudiante,Otro,No,26,1,0,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+13,25,Soltera,Superior,Catolico,Otro,Urbano,Otro,Otro,No,20,,0,No uso,No,Bajo,Positiva,Incorrecta,Si tiene,No
+14,27,Soltera,Secundaria,Catolico,Mestizo,Rural,Estudiante,Estudiante,No,15,2,0,No uso,No,Bajo,Positiva,Incorrecta,Si tiene,No
+15,28,Conviviente,Secundaria,Ninguna,Blanco,Rural,Ama de casa,Empleado,Si,17,2,4,Implante SD,No,Alto,Negativa,Correcta,Si tiene,Si
+16,32,Soltera,Superior,Catolico,Otro,Urbano,Otro,Otro,No,18,5,1,DIU,,Medio,Positiva,Correcta,Si tiene,Si
+17,53,Casada,Secundaria,Catolico,Mestizo,Rural,Ama de casa,Otro,No,,1,1,No uso,,Medio,Negativa,Correcta,Si tiene,No
+18,27,Soltera,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,Si,20,1,1,No uso,No,Medio,Positiva,Incorrecta,Si tiene,No
+19,25,Soltera,Superior,Ninguna,Mestizo,Urbano,Estudiante,Otro,No,18,2,0,No uso,No,Bajo,Positiva,Incorrecta,Si tiene,No
+20,32,Soltera,Secundaria,Catolico,Mestizo,Rural,Ama de casa,Empleado,No,30,1,0,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+21,31,Conviviente,Superior,Catolico,Mestizo,Urbano,Otro,Otro,No,18,2,2,ACO,No,Medio,Positiva,Incorrecta,Si tiene,Si
+22,54,Casada,Superior,Catolico,Mestizo,Rural,Otro,Otro,No,25,1,2,No uso,No,Medio,Positiva,Correcta,Si tiene,No
+23,32,Soltera,Superior,Catolico,Blanco,Urbano,Estudiante,Empleado,No,20,3,1,No uso,No,Alto,Positiva,Correcta,Si tiene,No
+24,27,Conviviente,Superior,Evangelista,Mestizo,Rural,Empleada,Empleado,Si,19,8,0,No uso,Si,Medio,Positiva,Incorrecta,Si tiene,No
+25,35,Soltera,Superior,Catolico,Mestizo,Rural,Ama de casa,Empleado,No,17,3,1,No uso,No,Bajo,Positiva,Incorrecta,Si tiene,No
+26,26,Soltera,Superior,Catolico,Mestizo,Urbano,Estudiante,Empleado,No,16,10,2,No uso,No,Medio,Negativa,Incorrecta,Si tiene,No
+27,26,Soltera,Secundaria,Catolico,Blanco,Rural,Estudiante,Estudiante,No,18,2,0,ACO,No,No conoce,Positiva,Incorrecta,No tiene,Si
+28,25,Soltera,Secundaria,Evangelista,Mestizo,Rural,Estudiante,Estudiante,No,19,2,0,No uso,No,Bajo,Positiva,Incorrecta,Si tiene,No
+29,29,Soltera,Superior,Catolico,Mestizo,Rural,Estudiante,Otro,No,18,1,0,No uso,No,Medio,Positiva,Incorrecta,Si tiene,No
+30,28,Soltera,Superior,Catolico,Otro,Urbano,Estudiante,Otro,No,25,1,0,No uso,No,Medio,Positiva,Correcta,Si tiene,No
+31,25,Soltera,Secundaria,Catolico,Blanco,Rural,Estudiante,Estudiante,No,18,1,0,Ampolla de 1 mes,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+32,30,Soltera,Superior,Catolico,Mestizo,Urbano,Estudiante,Estudiante,Si,20,1,0,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+33,25,Soltera,Superior,Catolico,Mestizo,Urbano,Estudiante,Otro,No,20,2,0,Implante SD,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+34,28,Soltera,Superior,Catolico,Mestizo,Urbano,Empleada,Otro,No,17,4,0,Ampolla de 1 mes,No,Medio,Negativa,Incorrecta,Si tiene,Si
+35,25,Soltera,Superior,Catolico,Mestizo,Urbano,Estudiante,Otro,No,22,2,0,Ampolla de 1 mes,No,Medio,Positiva,Incorrecta,Si tiene,Si
+36,25,Soltera,Superior,Catolico,Mestizo,Rural,Estudiante,Estudiante,No,19,3,0,No uso,No,Alto,Positiva,Correcta,Si tiene,No
+37,25,Soltera,Superior,Catolico,Mestizo,Urbano,Estudiante,Estudiante,No,21,1,0,No uso,No,Alto,Positiva,Incorrecta,Si tiene,No
+38,45,Conviviente,Superior,Catolico,Mestizo,Rural,Ama de casa,Empleado,Si,16,5,4,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+39,42,Conviviente,Secundaria,Catolico,Mestizo,Rural,Empleada,Empleado,No,19,2,2,ACO,No,Medio,Positiva,Incorrecta,Si tiene,Si
+40,50,Conviviente,Primaria,Catolico,Mestizo,Rural,Ama de casa,Empleado,Si,19,4,3,DIU,Si,Bajo,Negativa,Correcta,Si tiene,Si
+41,51,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,Si,18,2,1,Ampolla de 1 mes,No,Medio,Negativa,Incorrecta,Si tiene,Si
+42,49,Casada,Secundaria,Catolico,Mestizo,Rural,Ama de casa,Empleado,No,20,3,3,No uso,No,Medio,Negativa,Correcta,Si tiene,No
+43,54,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,20,2,3,ACO,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+44,46,Conviviente,Superior,Evangelista,Blanco,Urbano,Empleada,Empleado,No,,3,2,ACO,No,Medio,Positiva,Incorrecta,Si tiene,Si
+45,45,Conviviente,Superior,Evangelista,Mestizo,Rural,Empleada,Empleado,No,18,3,3,Ampolla de 1 mes,No,Medio,Positiva,Correcta,Si tiene,Si
+46,55,Casada,Primaria,Catolico,Mestizo,Rural,Ama de casa,Empleado,No,18,2,5,No uso,No,Medio,Negativa,Correcta,Si tiene,No
+47,58,Viuda,Secundaria,Catolico,Mestizo,Urbano,Ama de casa,Otro,No,18,2,1,No uso,No,Alto,Negativa,Correcta,Si tiene,No
+48,60,Viuda,Primaria,Catolico,Mestizo,Rural,Ama de casa,Otro,Si,,1,4,No uso,No,No conoce,Positiva,Incorrecta,No tiene,No
+49,51,Casada,Superior,Catolico,Mestizo,Urbano,Ama de casa,Empleado,Si,18,2,2,No uso,No,Medio,Negativa,Correcta,Si tiene,No
+50,64,Casada,Primaria,Catolico,Mestizo,Rural,Ama de casa,Otro,Si,,1,1,No uso,No,No conoce,Negativa,Incorrecta,No tiene,No
+51,25,Conviviente,Superior,Catolico,Mestizo,Urbano,Estudiante,Empleado,Si,18,4,1,No uso,No,Alto,Positiva,Correcta,Si tiene,No
+52,25,Soltera,Superior,Catolico,Mestizo,Rural,Estudiante,Otro,No,25,1,0,No uso,No,No conoce,Negativa,Incorrecta,No tiene,No
+53,60,Casada,Secundaria,Catolico,Mestizo,Urbano,Ama de casa,Otro,No,,2,2,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+54,49,Casada,Superior,Catolico,Mestizo,Urbano,Otro,Empleado,No,13,2,2,No uso,No,Alto,Negativa,Correcta,Si tiene,No
+55,43,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,20,2,2,No uso,No,Alto,Positiva,Incorrecta,Si tiene,No
+56,50,Conviviente,Superior,Evangelista,Mestizo,Urbano,Empleada,Empleado,Si,20,1,3,Ampolla de 3 meses,No,Alto,Negativa,Correcta,Si tiene,Si
+57,41,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,Si,19,1,2,ACO,No,Medio,Positiva,Correcta,Si tiene,Si
+58,50,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,30,1,2,No uso,No,Medio,Negativa,Incorrecta,Si tiene,No
+59,50,Viuda,Superior,Ninguna,Mestizo,Rural,Otro,Otro,No,19,2,2,ACO,Si,Medio,Positiva,Incorrecta,Si tiene,Si
+60,62,Casada,Secundaria,Evangelista,Mestizo,Urbano,Ama de casa,Otro,Si,20,1,4,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+61,53,Soltera,Superior,Catolico,Mestizo,Rural,Otro,Otro,No,25,5,0,No uso,No,Medio,Positiva,Incorrecta,Si tiene,No
+62,35,Casada,Superior,Catolico,Mestizo,Urbano,Ama de casa,Empleado,No,18,1,2,Ampolla de 1 mes,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+63,46,Conviviente,Secundaria,Catolico,Blanco,Urbano,Otro,Otro,No,20,2,3,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+64,38,Conviviente,Superior,Catolico,Mestizo,Rural,Estudiante,Empleado,No,20,3,0,No uso,No,Alto,Positiva,Correcta,Si tiene,No
+65,25,Soltera,Superior,Evangelista,Blanco,Urbano,Estudiante,Otro,No,23,1,0,,No,Medio,Negativa,Incorrecta,Si tiene,No
+66,37,Conviviente,Superior,Ninguna,Mestizo,Urbano,Ama de casa,Otro,Si,18,1,2,Ampolla de 3 meses,No,Medio,Negativa,Correcta,Si tiene,Si
+67,29,Soltera,Superior,Catolico,Mestizo,Urbano,Otro,Empleado,No,20,2,0,Ampolla de 1 mes,No,Medio,Positiva,Correcta,Si tiene,Si
+68,26,Soltera,Secundaria,Catolico,Otro,Rural,Ama de casa,Otro,No,18,1,1,,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+69,25,Soltera,Superior,Catolico,Otro,Urbano,Estudiante,Estudiante,No,17,2,0,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+70,35,Conviviente,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,22,2,2,Implante SD,No,Medio,Positiva,Incorrecta,Si tiene,Si
+71,56,Casada,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,21,2,1,Ampolla de 1 mes,No,Medio,Negativa,Incorrecta,Si tiene,Si
+72,46,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Sin empleo,Si,18,2,2,No uso,No,Medio,Negativa,Incorrecta,Si tiene,No
+73,57,Casada,Superior,Evangelista,Blanco,Rural,Empleada,Empleado,No,18,3,4,DIU,No,Medio,Negativa,Correcta,Si tiene,Si
+74,49,Conviviente,Superior,Evangelista,Mestizo,Rural,Empleada,Empleado,No,19,3,3,ACO,No,Medio,Negativa,Incorrecta,Si tiene,Si
+75,25,Soltera,Superior,Evangelista,Mestizo,Urbano,Estudiante,Otro,No,24,2,0,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+76,53,Casada,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,19,2,1,Ampolla de 3 meses,No,Alto,Negativa,Correcta,Si tiene,Si
+77,47,Conviviente,Secundaria,Catolico,Mestizo,Urbano,Ama de casa,Otro,No,17,2,3,No uso,No,Medio,Negativa,Correcta,Si tiene,No
+78,58,Soltera,Secundaria,Catolico,Mestizo,Rural,Empleada,Otro,Si,20,3,1,DIU,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+79,25,Soltera,Superior,Catolico,Mestizo,Urbano,Estudiante,Estudiante,No,19,2,0,No uso,No,Medio,Negativa,Incorrecta,Si tiene,No
+80,38,Casada,Superior,Catolico,Mestizo,Urbano,Ama de casa,Empleado,No,18,1,2,Ampolla de 1 mes,Si,Medio,Negativa,Incorrecta,Si tiene,Si
+81,25,Soltera,Superior,Catolico,Blanco,Rural,Empleada,Otro,No,17,1,1,ACO,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+82,58,Casada,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,20,3,2,Ampolla de 1 mes,No,Medio,Positiva,Incorrecta,Si tiene,Si
+83,34,Soltera,Superior,Catolico,Otro,Rural,Otro,Otro,No,25,0,0,No uso,No,Alto,Negativa,Incorrecta,Si tiene,No
+84,31,Conviviente,Secundaria,Catolico,Mestizo,Rural,Sin empleo,Sin empleo,Si,13,15,2,Implante SD,Si,Bajo,Positiva,Incorrecta,Si tiene,Si
+85,26,Soltera,Superior,Catolico,Mestizo,Urbano,Empleada,Otro,Si,15,4,0,ACO,No,Bajo,Positiva,Incorrecta,Si tiene,Si
+86,33,Soltera,Secundaria,Catolico,Mestizo,Urbano,Empleada,Empleado,No,18,4,3,No uso,No,Bajo,Negativa,Correcta,Si tiene,No
+87,47,Soltera,Superior,Catolico,Mestizo,Urbano,Empleada,Otro,No,20,6,1,No uso,No,Medio,Positiva,Incorrecta,Si tiene,No
+88,48,Conviviente,Secundaria,Catolico,Mestizo,Urbano,Otro,Otro,Si,,1,3,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+89,60,Conviviente,Secundaria,Evangelista,Mestizo,Urbano,Ama de casa,Otro,No,22,1,4,Implante SD,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+90,46,Soltera,Superior,Evangelista,Mestizo,Urbano,Empleada,Otro,No,19,2,1,Implante SD,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+91,35,Conviviente,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,,4,2,Implante SD,No,Bajo,Positiva,Incorrecta,Si tiene,Si
+92,52,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,25,12,2,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+93,53,Casada,Secundaria,Catolico,Mestizo,Rural,Empleada,Empleado,No,19,2,3,ACO,No,Medio,Negativa,Incorrecta,Si tiene,Si
+94,57,Conviviente,Secundaria,Catolico,Mestizo,Urbano,Empleada,Empleado,No,19,2,3,Ampolla de 1 mes,No,Medio,Positiva,Incorrecta,Si tiene,Si
+95,41,Casada,Superior,Evangelista,Mestizo,Urbano,Empleada,Empleado,No,,,3,Implante SD,No,Medio,Negativa,Incorrecta,Si tiene,Si
+96,45,Conviviente,Secundaria,Catolico,Mestizo,Urbano,Ama de casa,Empleado,No,20,2,1,ACO,No,Alto,Positiva,Incorrecta,Si tiene,Si
+97,67,Viuda,Secundaria,Evangelista,Mestizo,Rural,Otro,Otro,No,18,2,4,Implante SD,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+98,62,Casada,Secundaria,Evangelista,Mestizo,Urbano,Empleada,Empleado,Si,20,1,3,DIU,No,Bajo,Positiva,Incorrecta,Si tiene,Si
+99,43,Conviviente,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,21,3,1,Ampolla de 3 meses,No,Alto,Negativa,Incorrecta,Si tiene,Si
+100,42,Casada,Superior,Catolico,Otro,Urbano,Empleada,Empleado,No,17,3,4,DIU,No,Bajo,Negativa,Correcta,Si tiene,Si
+101,48,Casada,Superior,Evangelista,Mestizo,Urbano,Empleada,Empleado,No,18,2,2,Ampolla de 1 mes,No,Medio,Positiva,Correcta,Si tiene,Si
+102,46,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,21,2,2,Ampolla de 3 meses,No,Medio,Positiva,Correcta,Si tiene,Si
+103,52,Conviviente,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,19,3,2,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+104,35,Conviviente,Superior,Catolico,Otro,Urbano,Empleada,Empleado,No,17,4,1,Implante SD,No,Bajo,Negativa,Correcta,Si tiene,Si
+105,26,Soltera,Superior,Catolico,Mestizo,Rural,Estudiante,Empleado,No,20,1,0,No uso,No,Alto,Positiva,Correcta,Si tiene,No
+106,42,Conviviente,Secundaria,Evangelista,Mestizo,Rural,Ama de casa,Empleado,Si,16,1,5,No uso,No,No conoce,Negativa,Incorrecta,No tiene,No
+107,41,Conviviente,Superior,Evangelista,Mestizo,Rural,Empleada,Empleado,No,19,2,3,Ampolla de 1 mes,No,Alto,Positiva,Correcta,Si tiene,Si
+108,49,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,20,2,2,ACO,No,Medio,Positiva,Correcta,Si tiene,Si
+109,39,Soltera,Secundaria,Catolico,Mestizo,Rural,Empleada,Empleado,Si,19,2,1,DIU,No,Bajo,Positiva,Incorrecta,Si tiene,Si
+110,53,Casada,Secundaria,Catolico,Mestizo,Rural,Empleada,Empleado,Si,,2,2,DIU,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+111,45,Viuda,Secundaria,Evangelista,Mestizo,Rural,Ama de casa,Otro,No,17,2,4,No uso,No,Bajo,Negativa,Incorrecta,Si tiene,No
+112,56,Casada,Secundaria,Catolico,Blanco,Urbano,Ama de casa,Empleado,Si,23,3,2,No uso,No,Bajo,Positiva,Incorrecta,Si tiene,No
+113,58,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,20,2,2,Ampolla de 1 mes,No,Alto,Positiva,Correcta,Si tiene,Si
+114,50,Conviviente,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,Si,26,1,3,No uso,No,Alto,Positiva,Correcta,Si tiene,No
+115,47,Casada,Secundaria,Catolico,Mestizo,Rural,Ama de casa,Empleado,No,21,3,1,Ampolla de 3 meses,No,Alto,Negativa,Correcta,Si tiene,Si
+116,54,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,Si,20,2,2,Ampolla de 3 meses,No,Medio,Positiva,Correcta,Si tiene,Si
+117,48,Conviviente,Secundaria,Catolico,Otro,Urbano,Empleada,Empleado,No,24,2,3,Ampolla de 3 meses,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+118,65,Conviviente,Secundaria,Catolico,Mestizo,Urbano,Ama de casa,Otro,Si,16,1,4,No uso,Si,Bajo,Negativa,Incorrecta,Si tiene,No
+119,49,Soltera,Superior,Catolico,Mestizo,Urbano,Ama de casa,Otro,Si,17,5,2,Ampolla de 1 mes,Si,Bajo,Negativa,Incorrecta,Si tiene,Si
+120,53,Conviviente,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,18,2,4,Ampolla de 3 meses,No,Alto,Positiva,Correcta,Si tiene,Si
+121,55,Casada,Secundaria,Catolico,Mestizo,Rural,Empleada,Empleado,No,21,2,1,Ampolla de 3 meses,No,Medio,Positiva,Correcta,Si tiene,Si
+122,53,Casada,Superior,Evangelista,Blanco,Rural,Empleada,Empleado,No,21,2,3,Ampolla de 1 mes,No,Medio,Positiva,Incorrecta,Si tiene,Si
+123,46,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,22,2,1,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+124,48,Casada,Secundaria,Catolico,Mestizo,Rural,Empleada,Empleado,No,19,2,1,Ampolla de 3 meses,No,Medio,Negativa,Incorrecta,Si tiene,Si
+125,51,Conviviente,Superior,Evangelista,Blanco,Rural,Empleada,Empleado,No,20,3,2,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+126,55,Conviviente,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,21,3,2,ACO,No,Medio,Positiva,Incorrecta,Si tiene,Si
+127,48,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,19,2,1,Ampolla de 3 meses,No,Medio,Positiva,Correcta,Si tiene,Si
+128,53,Casada,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,20,2,2,Ampolla de 3 meses,No,Medio,Positiva,Incorrecta,Si tiene,Si
+129,46,Conviviente,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,19,3,2,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+130,52,Casada,Superior,Evangelista,Blanco,Urbano,Empleada,Empleado,No,18,3,2,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+131,57,Conviviente,Superior,Catolico,Mestizo,Rural,Ama de casa,Sin empleo,Si,18,2,4,No uso,No,Bajo,Positiva,Incorrecta,Si tiene,No
+132,54,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,19,2,3,Ampolla de 3 meses,No,Medio,Positiva,Incorrecta,Si tiene,Si
+133,58,Casada,Secundaria,Catolico,Mestizo,Rural,Empleada,Empleado,No,18,4,3,Implante SD,No,Medio,Negativa,Incorrecta,Si tiene,Si
+134,56,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,18,2,3,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+135,47,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,19,2,2,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+136,56,Conviviente,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,Si,20,2,2,No uso,Si,Bajo,Positiva,Incorrecta,Si tiene,No
+137,39,Casada,Superior,Catolico,Otro,Rural,Empleada,Empleado,Si,20,3,2,DIU,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+138,46,Casada,Secundaria,Catolico,Mestizo,Rural,Otro,Otro,Si,17,1,4,Ampolla de 3 meses,Si,Bajo,Negativa,Incorrecta,Si tiene,Si
+139,42,Casada,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,19,2,4,Ampolla de 3 meses,No,Alto,Positiva,Correcta,Si tiene,Si
+140,55,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,19,2,4,Ampolla de 3 meses,No,Alto,Positiva,Correcta,Si tiene,Si
+141,48,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,19,2,2,Ampolla de 1 mes,No,Alto,Negativa,Incorrecta,Si tiene,Si
+142,50,Casada,Superior,Evangelista,Blanco,Urbano,Empleada,Empleado,No,20,3,1,Ampolla de 1 mes,No,Alto,Positiva,Correcta,Si tiene,Si
+143,49,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,21,2,3,ACO,No,Alto,Positiva,Incorrecta,Si tiene,Si
+144,53,Conviviente,Secundaria,Catolico,Mestizo,Rural,Ama de casa,Empleado,No,20,2,1,ACO,No,Medio,Positiva,Correcta,Si tiene,Si
+145,43,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,19,2,3,Ampolla de 3 meses,No,Alto,Positiva,Correcta,Si tiene,Si
+146,59,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,18,2,4,ACO,No,Alto,Positiva,Incorrecta,Si tiene,Si
+147,45,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,18,2,3,DIU,No,Alto,Positiva,Correcta,Si tiene,Si
+148,44,Casada,Superior,Catolico,Blanco,Rural,Empleada,Empleado,No,18,2,2,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+149,42,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,20,3,2,Ampolla de 1 mes,No,Alto,Positiva,Correcta,Si tiene,Si
+150,41,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,18,2,1,ACO,No,Alto,Positiva,Incorrecta,Si tiene,Si
+151,58,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,20,3,4,Ampolla de 1 mes,No,Alto,Positiva,Correcta,Si tiene,Si
+152,55,Casada,Superior,Catolico,Blanco,Rural,Empleada,Empleado,No,21,2,1,DIU,No,Alto,Positiva,Correcta,Si tiene,Si
+153,45,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,22,3,2,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+154,56,Casada,Superior,Evangelista,Blanco,Rural,Empleada,Empleado,No,,,3,Ampolla de 3 meses,,Alto,Positiva,Incorrecta,Si tiene,Si
+155,57,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,Si,19,2,1,ACO,No,Alto,Positiva,Correcta,Si tiene,Si
+156,59,Conviviente,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,20,3,3,ACO,No,Alto,Positiva,Incorrecta,Si tiene,Si
+157,45,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,20,2,3,Ampolla de 1 mes,No,Alto,Positiva,Correcta,Si tiene,Si
+158,53,Conviviente,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,19,2,1,ACO,,Alto,Positiva,Incorrecta,Si tiene,Si
+159,58,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,21,,2,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+160,47,Conviviente,Superior,Evangelista,Mestizo,Urbano,Empleada,Empleado,No,18,2,4,ACO,No,Alto,Positiva,Correcta,Si tiene,Si
+161,49,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,19,3,3,Ampolla de 1 mes,No,Medio,Positiva,Incorrecta,Si tiene,Si
+162,43,Soltera,Secundaria,Catolico,Mestizo,Rural,Empleada,Empleado,Si,16,5,3,Ampolla de 3 meses,No,Medio,Positiva,Incorrecta,Si tiene,Si
+163,51,Casada,Secundaria,Catolico,Mestizo,Rural,Ama de casa,Estudiante,Si,18,3,2,Ampolla de 1 mes,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+164,44,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,Si,16,7,4,Ampolla de 1 mes,No,Bajo,Negativa,Correcta,Si tiene,Si
+165,35,Conviviente,Secundaria,Catolico,Mestizo,Rural,Ama de casa,Empleado,Si,16,2,3,Ampolla de 3 meses,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+166,45,Casada,Superior,Catolico,Mestizo,Urbano,Ama de casa,Empleado,No,18,2,3,No uso,No,Alto,Negativa,Correcta,Si tiene,No
+167,47,Conviviente,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,,2,1,ACO,No,Alto,Positiva,Incorrecta,Si tiene,Si
+168,64,Casada,Secundaria,Catolico,Otro,Rural,Otro,Otro,Si,20,2,4,No uso,No,Bajo,Negativa,Correcta,Si tiene,No
+169,49,Casada,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,18,3,2,Ampolla de 3 meses,Si,Bajo,Negativa,Correcta,Si tiene,Si
+170,55,Casada,Secundaria,Catolico,Mestizo,Rural,Ama de casa,Empleado,Si,21,2,5,Ampolla de 1 mes,No,Bajo,Negativa,Correcta,Si tiene,Si
+171,53,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,20,3,2,ACO,No,Medio,Positiva,Incorrecta,Si tiene,Si
+172,55,Casada,Superior,Evangelista,Blanco,Urbano,Empleada,Empleado,No,21,2,3,Ampolla de 3 meses,No,Medio,Positiva,Correcta,Si tiene,Si
+173,63,Viuda,Secundaria,Catolico,Mestizo,Urbano,Otro,Otro,No,19,3,6,No uso,No,Bajo,Negativa,Correcta,Si tiene,No
+174,39,Conviviente,Secundaria,Catolico,Otro,Urbano,Otro,Otro,No,17,5,3,ACO,Si,Bajo,Positiva,Correcta,Si tiene,Si
+175,54,Casada,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,19,2,1,ACO,No,Alto,Positiva,Incorrecta,Si tiene,Si
+176,46,Conviviente,Secundaria,Evangelista,Mestizo,Rural,Empleada,Empleado,No,18,2,3,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+177,47,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,,2,2,ACO,No,Alto,Positiva,Correcta,Si tiene,Si
+178,43,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,18,2,4,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+179,47,Casada,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,21,2,2,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+180,45,Casada,Superior,Evangelista,Mestizo,Rural,Empleada,Empleado,No,20,3,2,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+181,58,Conviviente,Secundaria,Catolico,Otro,Rural,Empleada,Empleado,No,17,3,4,DIU,Si,Bajo,Negativa,Incorrecta,Si tiene,Si
+182,58,Conviviente,Secundaria,Catolico,Mestizo,Urbano,Estudiante,Otro,No,19,2,5,Ampolla de 1 mes,No,Bajo,Negativa,Correcta,Si tiene,Si
+183,51,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,20,2,2,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+184,25,Casada,Superior,Evangelista,Mestizo,Rural,Empleada,Empleado,No,21,3,2,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+185,55,Conviviente,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,19,3,3,ACO,No,Alto,Positiva,Correcta,Si tiene,Si
+186,41,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,18,2,3,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+187,57,Casada,Superior,Evangelista,Mestizo,Rural,Empleada,Empleado,No,21,2,1,ACO,No,Alto,Positiva,Correcta,Si tiene,Si
+188,55,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,19,2,2,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+189,52,Casada,Superior,Catolico,Blanco,Rural,Empleada,Empleado,No,19,2,2,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+190,45,Conviviente,Superior,Catolico,Blanco,Rural,Empleada,Empleado,No,20,2,4,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+191,57,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,20,3,2,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+192,48,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,19,3,2,ACO,No,Medio,Positiva,Incorrecta,Si tiene,Si
+193,55,Casada,Superior,Evangelista,Mestizo,Rural,Empleada,Empleado,No,20,2,1,ACO,No,Medio,Positiva,Correcta,Si tiene,Si
+194,51,Casada,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,19,3,2,Ampolla de 1 mes,No,Medio,Positiva,Incorrecta,Si tiene,Si
+195,55,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,21,3,1,ACO,No,Alto,Positiva,Incorrecta,Si tiene,Si
+196,52,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,20,,2,Ampolla de 3 meses,No,Medio,Positiva,Correcta,Si tiene,Si
+197,49,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,20,2,2,ACO,No,Medio,Positiva,Correcta,Si tiene,Si
+198,52,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,19,2,2,ACO,No,Alto,Positiva,Correcta,Si tiene,Si
+199,42,Casada,Secundaria,Catolico,Mestizo,Rural,Estudiante,Empleado,No,19,2,3,ACO,No,Alto,Positiva,Incorrecta,Si tiene,Si
+200,54,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,20,1,2,ACO,No,Medio,Positiva,Incorrecta,Si tiene,Si
+201,48,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,19,3,1,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+202,49,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,18,,2,ACO,No,Alto,Positiva,Incorrecta,Si tiene,Si
+203,25,Soltera,Secundaria,Catolico,Mestizo,Urbano,Ama de casa,Otro,Si,13,1,2,Ampolla de 3 meses,No,Medio,Negativa,Incorrecta,Si tiene,Si
+204,46,Casada,Secundaria,Catolico,Mestizo,Urbano,Empleada,Empleado,No,20,2,1,ACO,No,Alto,Positiva,Correcta,Si tiene,Si
+205,49,Conviviente,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,21,3,1,Ampolla de 1 mes,No,Alto,Positiva,Correcta,Si tiene,Si
+206,62,Soltera,Primaria,Catolico,Mestizo,Rural,Ama de casa,Otro,No,17,3,6,Ampolla de 1 mes,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+207,52,Casada,Superior,Catolico,Blanco,Rural,Empleada,Empleado,No,19,2,1,Ampolla de 3 meses,No,Alto,Positiva,Correcta,Si tiene,Si
+208,66,Viuda,Superior,Catolico,Blanco,Rural,Otro,Otro,No,20,3,3,DIU,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+209,54,Casada,Superior,Evangelista,Mestizo,Urbano,Empleada,Empleado,No,20,3,3,Ampolla de 1 mes,No,Alto,Negativa,Incorrecta,Si tiene,Si
+210,55,Casada,Superior,Catolico,Blanco,Urbano,Empleada,Empleado,No,18,2,4,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+211,46,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Estudiante,No,19,3,2,Ampolla de 1 mes,No,Alto,Positiva,Incorrecta,Si tiene,Si
+212,57,Conviviente,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,,2,3,ACO,No,Alto,Positiva,Correcta,Si tiene,Si
+213,48,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,19,3,1,ACO,No,Alto,Positiva,Correcta,Si tiene,Si
+214,59,Casada,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,20,3,4,Ampolla de 3 meses,No,Alto,Positiva,Incorrecta,Si tiene,Si
+215,53,Casada,Superior,Catolico,Mestizo,Rural,Empleada,Empleado,No,21,2,2,ACO,No,Alto,Positiva,Correcta,Si tiene,Si
+216,65,Soltera,Superior,Catolico,Otro,Rural,Sin empleo,Otro,No,23,3,1,DIU,No,Bajo,Negativa,Incorrecta,Si tiene,Si
+217,52,Conviviente,Superior,Catolico,Mestizo,Urbano,Empleada,Empleado,No,,1,4,DIU,Si,Bajo,Negativa,Correcta,Si tiene,Si
+218,51,Conviviente,Superior,Catolico,Blanco,Urbano,Empleada,Estudiante,No,20,2,2,ACO,No,Alto,Positiva,Incorrecta,Si tiene,Si
