@@ -10,3 +10,4 @@ contactos:
 - darianacortez.c@gmail.com
 - anyelina140306@gmail.com
 - mariafelixyataco@gmail.com
+- brithney.coraima@gmail.com
