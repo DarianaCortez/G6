@@ -11,4 +11,4 @@ contactos:
 - mariafelixyataco@gmail.com
 - brithney.coraima@gmail.com
 - heydi.larico.mamani@gmail.com
-- 
+- verabendezuvera@gmail.com
